@@ -68,5 +68,6 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/DaughterOfMars/move-formatter.git"
-    }
+    },
+    "publisher": "alephresearch"
 }
